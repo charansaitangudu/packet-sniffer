@@ -10,8 +10,8 @@ A basic packet sniffer built using raw sockets in Python.
 ## 🧪 How to Run
 ```bash
 sudo python packet_sniffer.py
-Packet from ('eth0', 0): b'\xff\xff\xff...'
-Packet from ('wlan0', 0): b'\x08\x00\x27...'
+markdown
+
 🟢 This shows what someone would see when they run your code — gives an idea of functionality.
 
 ---
@@ -23,5 +23,3 @@ Packet from ('wlan0', 0): b'\x08\x00\x27...'
 - Intro to packet sniffing
 
 For educational purposes only. Do not use on unauthorized networks.
-
-
